@@ -13,15 +13,15 @@ The last part is the application of Real options and a simple example to illustr
 
  ### Service costing in R using Power BI
 
-<img src="/pic/MC-4.jpg" width="100%" />
+<img src="Predictive-Analytics/pic/MC-4.jpg" width="100%" />
 
 ### Cost Volume Profit (CVP) Analysis.
 
-<img src="/pic/MC-5.jpg" width="100%" />
+<img src="Predictive-Analytics/pic/MC-5.jpg" width="100%" />
 
 ### Financial budgeting under uncertainity
 
-<img src="/MC-6.jpg" width="100%" />
+<img src="Predictive-Analytics/MC-6.jpg" width="100%" />
 
  ### A simple example to illustrates the power of real options through the execution of an option to wait.		
 			
