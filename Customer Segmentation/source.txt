@@ -1,0 +1,3 @@
+https://rpubs.com/Koi_P/660327
+
+https://www.geeksforgeeks.org/customer-segmentation-using-kmeans-in-r/
