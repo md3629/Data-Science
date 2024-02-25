@@ -39,6 +39,7 @@ Capital investement = 100,000 <br>
 
 <img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
 	
+## Clustering
 ### Customer Segmentation using R
 Discussing process and experimenting with clustering <br>
 Using **KMeans** for Segmenting Customers and determining the Optimal value of K using Elbow Method. <br>
