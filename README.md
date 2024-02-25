@@ -46,9 +46,7 @@ Capital investement = 100,000 <br>
 <img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
 	
 ### Customer Segmentation using R
-Discussing process and experimenting with clustering
-
-<h3>Building a customer segmentation in R</h3>
+Discussing process and experimenting with clustering <br>
 Using **KMeans** for Segmenting Customers and determining the Optimal value of K using Elbow Method. <br>
 <br>
 From the second visualisation, we observe that there is a distribution of 6 clusters as follows<br>
