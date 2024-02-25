@@ -1,4 +1,4 @@
-# Data  using R
+# Data  Science using R
 
 ## Predictive Analytics under uncertainity using Monte Carlo simulation
 
@@ -57,6 +57,6 @@ Cluster 3 + 4: This Cluster represents the customers having a medium Annual Inco
 Cluster 5: This Cluster represents the customers having a low Annual Income but spends way too much.<br>
 Cluster 6: This Cluster represents the customers having a very high Annual Income along with a high spending.
 
-<img src="/Customer Segmentation_page-0001.jpg" width="100%" />
-<img src="/Customer Segmentation_page-0002.jpg" width="100%" />
-<img src="/Customer Segmentation_page-0003.jpg" width="100%" />
+<img src="/Customer Segmentation/pic/page-0001.jpg" width="100%" />
+<img src="/Customer Segmentation/pic/_page-0002.jpg" width="100%" />
+<img src="/Customer Segmentation/pic/page-0003.jpg" width="100%" />
