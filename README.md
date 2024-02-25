@@ -26,5 +26,5 @@ The last part is the application of Real options and a simple example to illustr
  ### A simple example to illustrates the power of real options through the execution of an option to wait.		
 			
 Problem: Given a set of state variables and associated net cash flows for an investment project simulated through Monte Carlo simulation, solve for the real option value of a capital investment project through the least-squares Monte Carlo simulation (LSM) method.	<br>	
-<img src="/pic/NPV.jpeg" width="100%" />
+<img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
 	
