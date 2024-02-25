@@ -2,14 +2,8 @@
 
 ## Predictive Analytics under uncertainity using Monte Carlo simulation
 
-Discussing process and experimenting with Monte Carlo
+Discussing process and experimenting with Monte Carlo simulation.
 
-<h3></h3>
-<p> The first part is a simple Service costing in R using Power BI. <br>
-The Second part is Cost Volume Profit (CVP) Analysis.  
-<br>
-The next part is Financial budgeting under uncertainity<br>
-The last part is the application of Real options and a simple example to illustrates the power of real options through the execution of an option to wait. <br>
 
  ### Service costing in R using Power BI
 
