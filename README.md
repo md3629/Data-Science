@@ -21,7 +21,7 @@ The last part is the application of Real options and a simple example to illustr
 
 ### Financial budgeting under uncertainity
 
-<img src="Predictive-Analytics/MC-6.jpg" width="100%" />
+<img src="Predictive-Analytics/pic/MC-6.jpg" width="100%" />
 
  ### A simple example to illustrates the power of real options through the execution of an option to wait.		
 			
