@@ -38,6 +38,10 @@ Initial price of asset: 36 <br>
 Discrete time step = 1/12 (monthly) <br>
 Project lifetime (in years) = 10<br>
 Capital investement = 100,000 <br> 
+**Results**
+'Real Option value': The value of the capital investment project considering flexibility in the timing of investment. **(1.2mil)**<br>
+'Net Present Value': The value of the capital investment project considering immediate investment. **(1.0 mil)**<br>
+'Waiting Option Value': The value of the option to delay initial investment, equal to the difference between the ROV and NPV **(0.2 mil)**
 
 <img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
 	
