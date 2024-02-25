@@ -17,9 +17,8 @@ Cluster 5: This Cluster represents the customers having a low Annual Income but 
 Cluster 6: This Cluster represents the customers having a very high Annual Income along with a high spending.
 
 <img src="/Customer Segmentation/pic/Customer Segmentation_page-0001.jpg" width="100%" />
-<img src="/Customer Segmentation/pic/Customer Segmentation_page-0002.jpg" width="100%" />
-<img src="/Customer Segmentation/pic/CS5.jpeg" width="100%" />
 <img src="/Customer Segmentation/pic/CS1.jpeg" width="100%" />
 <img src="/Customer Segmentation/pic/CS2.jpeg" width="100%" />
 <img src="/Customer Segmentation/pic/CS3.jpeg" width="100%" />
 <img src="/Customer Segmentation/pic/CS4.jpeg" width="100%" />
+<img src="/Customer Segmentation/pic/CS5.jpeg" width="100%" />
