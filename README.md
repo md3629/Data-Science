@@ -22,17 +22,17 @@ Detailed discussions and experiments are conducted, highlighting the process and
 
  ### A simple example to illustrates the power of real options through the execution of an option to wait.		
 
-**Assumptions for the Real Option Valuation:**
-_Fixed operating costs._
+**Assumptions for the Real Option Valuation:** <br>
+_Fixed operating costs._<br>
 - Revenues dependent on a stochastically evolving underlying asset following a GBM process.
 - Monthly investment opportunities with a construction time of 6 months.
 - Exponential decrease in the initial capital investment cost.
-- Key parameters: Initial asset price, time step, project lifetime, and capital investment.
+- Key parameters: Initial asset price, time step, project lifetime, and capital investment.<br>
 _Results:_
 
-**'Real Option Value'**: Considering flexibility in the timing of investment (1.2 mil).
-**'Net Present Value'**: Immediate investment scenario (1.0 mil).
-**'Waiting Option Value**': The value of the option to delay initial investment (0.2 mil).
+**'Real Option Value'**: Considering flexibility in the timing of investment (1.2 mil).<br>
+**'Net Present Value'**: Immediate investment scenario (1.0 mil).<br>
+**'Waiting Option Value**': The value of the option to delay initial investment (0.2 mil).<br>
 
 <img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
 	
