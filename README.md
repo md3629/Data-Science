@@ -23,7 +23,7 @@ Detailed discussions and experiments are conducted, highlighting the process and
  ### A simple example to illustrates the power of real options through the execution of an option to wait.		
 
 **Assumptions for the Real Option Valuation:** <br>
-_Fixed operating costs._<br>
+- Fixed operating costs.<br>
 - Revenues dependent on a stochastically evolving underlying asset following a GBM process.
 - Monthly investment opportunities with a construction time of 6 months.
 - Exponential decrease in the initial capital investment cost.
