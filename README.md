@@ -7,8 +7,6 @@ This repository focuses on practical applications of Data Science using R, speci
 
 The repository explores Monte Carlo simulation for predictive analytics, emphasizing its application under uncertainty.<br>
 Detailed discussions and experiments are conducted, highlighting the process and significance of Monte Carlo simulation.
-A specific problem is addressed: determining the real option value of a capital investment project using the least-squares Monte Carlo simulation method.
-
 
  ### Service costing in R using Power BI
 
