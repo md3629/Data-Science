@@ -1,4 +1,5 @@
-# Data  Science using R
+# Data  Science using R<br>
+This repository serves as a showcase for implementing Data Science techniques in R, covering predictive analytics with Monte Carlo simulation and customer segmentation through clustering. Practical examples are enhaced with visualizations for the understanding of complex concepts.
 
 ## Predictive Analytics under uncertainity using Monte Carlo simulation
 
