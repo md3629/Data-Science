@@ -1,5 +1,5 @@
 # Predictive Analytics
-(introduction using AI)
+(introduction using AI)<br>
 **Predictive analytics** is the practice of using data, statistical algorithms, and machine learning techniques to identify the likelihood of future outcomes based on historical data. The goal of predictive analytics is to make predictions about unknown future events or trends by analyzing patterns and relationships in existing data.
 
 Key components of predictive analytics include:
