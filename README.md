@@ -27,8 +27,8 @@ _Fixed operating costs._<br>
 - Revenues dependent on a stochastically evolving underlying asset following a GBM process.
 - Monthly investment opportunities with a construction time of 6 months.
 - Exponential decrease in the initial capital investment cost.
-- Key parameters: Initial asset price, time step, project lifetime, and capital investment.<br>
-_Results:_
+- Key parameters: Initial asset price, time step, project lifetime, and capital investment.<br><br>
+**Results:**
 
 **'Real Option Value'**: Considering flexibility in the timing of investment (1.2 mil).<br>
 **'Net Present Value'**: Immediate investment scenario (1.0 mil).<br>
