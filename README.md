@@ -1,9 +1,13 @@
 # Data  Science using R<br>
 This repository focuses on practical applications of Data Science using R, specifically delving into Predictive Analytics through Monte Carlo simulation and Customer Segmentation using clustering techniques. The repository provides insights into service costing, financial budgeting under uncertainty, and demonstrates the power of real options in investment projects.
+<br> <br> **Key Topics:**
 
 ## Predictive Analytics under uncertainity using Monte Carlo simulation
 
-Discussing process and experimenting with Monte Carlo simulation.
+
+The repository explores Monte Carlo simulation for predictive analytics, emphasizing its application under uncertainty.<br>
+Detailed discussions and experiments are conducted, highlighting the process and significance of Monte Carlo simulation.
+A specific problem is addressed: determining the real option value of a capital investment project using the least-squares Monte Carlo simulation method.
 
 
  ### Service costing in R using Power BI
@@ -19,24 +23,18 @@ Discussing process and experimenting with Monte Carlo simulation.
 <img src="Predictive-Analytics/pic/MC-6.jpg" width="100%" />
 
  ### A simple example to illustrates the power of real options through the execution of an option to wait.		
-			
-Problem: Given a set of state variables and associated net cash flows for an investment project simulated through Monte Carlo simulation, solve for the real option value of a capital investment project through the least-squares Monte Carlo simulation (LSM) method.	
 
-**Assumptions:**<br>	
-Operating costs of the project are fixed	<br>
-Revenues are dependent upon a stochastically evolving underlying asset that follows a GBM process	<br>
-The project can be invested at the beginning of each month (i.e. dt = 1/12) of the year.	<br>
-Cash flows are delivered at the end of each month. 	<br>
-There is a construction time of 6 months considered in this investment project, which means there is 6 months between the initial capital investment and when net cash flows of the project are accrued. 	<br>
-The initial capital investment cost also decreases exponentially at a rate of 1% p.a. to allow research and development into the project to reduce the cost of investment.	<br>
-Initial price of asset: 36 <br>
-Discrete time step = 1/12 (monthly) <br>
-Project lifetime (in years) = 10<br>
-Capital investement = 100,000 <br> 
-**Results**<br>
-'Real Option value': The value of the capital investment project considering flexibility in the timing of investment. **(1.2mil)**<br>
-'Net Present Value': The value of the capital investment project considering immediate investment. **(1.0 mil)**<br>
-'Waiting Option Value': The value of the option to delay initial investment, equal to the difference between the ROV and NPV **(0.2 mil)**
+**Assumptions for the Real Option Valuation:**
+_Fixed operating costs._
+- Revenues dependent on a stochastically evolving underlying asset following a GBM process.
+- Monthly investment opportunities with a construction time of 6 months.
+- Exponential decrease in the initial capital investment cost.
+- Key parameters: Initial asset price, time step, project lifetime, and capital investment.
+_Results:_
+
+**'Real Option Value'**: Considering flexibility in the timing of investment (1.2 mil).
+**'Net Present Value'**: Immediate investment scenario (1.0 mil).
+**'Waiting Option Value**': The value of the option to delay initial investment (0.2 mil).
 
 <img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
 	
