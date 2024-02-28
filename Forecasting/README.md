@@ -1,3 +1,4 @@
+<img src="/Forecasting/pic/logo.png" width="100%" />
 # Forecasting using R
 
 
