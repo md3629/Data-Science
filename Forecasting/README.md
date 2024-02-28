@@ -1,4 +1,4 @@
-<img src="/Forecasting/pic/logo.png" width="10%" /><br>
+<img src="/Forecasting/pic/logo.png" width="10%" /><img src="/Forecasting/pic/logo.png" width="10%" /><br>
 # Forecasting using R
 <br>
 Discussing process and experimenting with forecasting using R libary "forecast" and extending Power BI with R 
