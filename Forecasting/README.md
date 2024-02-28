@@ -1,7 +1,6 @@
 <img src="/Forecasting/pic/logo.png" width="10%" /><br>
 # Forecasting using R
-
-
+<br>
 Discussing process and experimenting with forecasting using R libary "forecast" and extending Power BI with R 
 ## ARFIMA - Autoregressive fractionally integrated moving average
 These models are useful in modeling time series with long memory—that is, in which deviations from the long-run mean decay more slowly than an exponential decay.
