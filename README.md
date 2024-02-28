@@ -1,5 +1,7 @@
 # Data  Science using R <img src="/Forecasting/pic/logo.png" align="right" /><img src="/Predictive-Analytics/pic/ggplot2.png" align="right" /><br>
 
+<a href="https://ggplot2.tidyverse.org"><img src="man/figures/logo.png" align="right" height="138" /></a>
+
 Predictive-Analytics
 /pic/
 This repository focuses on practical applications of Data Science using R, specifically delving into Predictive Analytics through Monte Carlo simulation and Customer Segmentation using clustering techniques. The repository provides insights into service costing, financial budgeting under uncertainty, and demonstrates the power of real options in investment projects.
