@@ -8,9 +8,9 @@ These models are useful in modeling time series with long memory—that is, in w
 ## ARIMA - Autoregressive integrated moving average
 ARIMA models are applied in some cases where data show evidence of non-stationarity. ARIMA model is a generalization of an autoregressive moving average (ARMA) model.
 <img src="/Forecasting/pic/ARIMA.jpeg" width="100%" />
-## ETS - 
+## ETS - Error, trend, seasonality
 <img src="/Forecasting/pic/ETS.jpeg" width="100%" />
-## STL - 
+## STL - Seasonal-Trend decomposition using LOESS
 <img src="/Forecasting/pic/STL.jpeg" width="100%" />
-## TBATS
+## TBATS - Trigonometric seasonality, Box-Cox transformation, ARMA errors, Trend, and Seasonal components
 <img src="/Forecasting/pic/TBATS.jpeg" width="100%" />
