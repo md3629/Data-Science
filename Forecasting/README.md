@@ -1,7 +1,7 @@
 <img src="/Forecasting/pic/logo.png" align="right" />  <img src="/Forecasting/pic/Power-BI.png" width="10%" /><br>
 
 
-# Forecasting using R
+# Forecasting using R <img src="/Forecasting/pic/logo.png" align="right" />
 <br>
 Discussing process and experimenting with forecasting using R libary "forecast" and extending Power BI with R 
 ## ARFIMA - Autoregressive fractionally integrated moving average
