@@ -5,7 +5,6 @@ This repository focuses on practical applications of Data Science using R, speci
 
 ## Predictive Analytics under uncertainity using Monte Carlo simulation
 
-
 The repository explores Monte Carlo simulation for predictive analytics, emphasizing its application under uncertainty.<br>
 Detailed discussions and experiments are conducted, highlighting the process and significance of Monte Carlo simulation.
 
