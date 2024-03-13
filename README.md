@@ -20,8 +20,9 @@ Detailed discussions and experiments are conducted, highlighting the process and
 
 <img src="Predictive-Analytics/pic/MC-6.jpg" width="100%" />
 
- ### A simple example to illustrates the power of real options through the execution of an option to wait.		
+ ### Real options.		
 
+A simple example to illustrates the power of real options through the execution of an option to wait.
 **Assumptions for the Real Option Valuation:** <br>
 - Fixed operating costs.<br>
 - Revenues dependent on a stochastically evolving underlying asset following a GBM process.
