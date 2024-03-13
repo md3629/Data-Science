@@ -39,8 +39,11 @@ A simple example to illustrates the power of real options through the execution 
 **'Net Present Value'**: Immediate investment scenario (1.0 mil).<br>
 **'Waiting Option Value**': The value of the option to delay initial investment (0.2 mil).<br>
 <img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
+
 ## 3. Clustering
+
 ### Customer Segmentation using R
+
 Discussing process and experimenting with clustering <br>
 Using **KMeans** for Segmenting Customers and determining the Optimal value of K using Elbow Method. <br>
 <br>
