@@ -7,7 +7,7 @@ This repository focuses on practical applications of Data Science using R, speci
 |---------|------------|
 | 1 | Predictive Analytics under uncertainity using Monte Carlo simulation |
 | 2 | Real options |
-| 3 | Clustering |
+| 3 | Customer Segmentation (Clustering) |
 | 4 | Marketing Mix Mdelling |
 | 5 | Forecasting |
 
