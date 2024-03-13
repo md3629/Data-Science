@@ -5,8 +5,9 @@ This repository focuses on practical applications of Data Science using R, speci
 
 | Section | Description|
 |---------|------------|
-| 1 | Test|
-| 2 | Test|
+| 1 | Predictive Analytics under uncertainity using Monte Carlo simulation |
+| 2 | Real options |
+| 2 | Clustering |
 
 ## Predictive Analytics under uncertainity using Monte Carlo simulation
 
@@ -25,7 +26,7 @@ Detailed discussions and experiments are conducted, highlighting the process and
 
 <img src="Predictive-Analytics/pic/MC-6.jpg" width="100%" />
 
- ### Real options.		
+ ## Real options.		
 A simple example to illustrates the power of real options through the execution of an option to wait.<br>
 **Assumptions for the Real Option Valuation:** <br>
 - Fixed operating costs.<br>
@@ -34,13 +35,10 @@ A simple example to illustrates the power of real options through the execution 
 - Exponential decrease in the initial capital investment cost.
 - Key parameters: Initial asset price, time step, project lifetime, and capital investment.<br><br>
 **Results:**
-
 **'Real Option Value'**: Considering flexibility in the timing of investment (1.2 mil).<br>
 **'Net Present Value'**: Immediate investment scenario (1.0 mil).<br>
 **'Waiting Option Value**': The value of the option to delay initial investment (0.2 mil).<br>
-
 <img src="Predictive-Analytics/pic/NPV.jpeg" width="100%" />
-	
 ## Clustering
 ### Customer Segmentation using R
 Discussing process and experimenting with clustering <br>
