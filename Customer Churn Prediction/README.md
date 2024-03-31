@@ -5,4 +5,4 @@ Based on Survival library in R
 https://dsciencelabs.github.io/tutorials/survival_analysis_in_r_tutorial.html
 
 <img src="/Customer Churn Prediction/pic/churn-vs-monthly-charge-1024x683.png" width="100%" />
-
+<img src="/Customer Churn Prediction/pic/churn-vs-monthly-charge-vs-services-1024x819.png" width="100%" />
