@@ -12,3 +12,5 @@ Customer lifetime value (CLV) analytics involves predicting the total value a cu
 **Predict CLV**: Once we have the RFM metrics and survival probabilities, we can use them to predict the CLV for each customer. There are various methods for doing this, such as the Gamma-Gamma model for predicting monetary value and the Pareto/NBD model for predicting future transactions.
 
 **Visualize Results**: Visualize the CLV predictions and other relevant metrics using plots and charts to gain insights and communicate findings effectively.
+
+<img src="/Customer lifetime value/pic/CLV.jpeg" width="100%" />
