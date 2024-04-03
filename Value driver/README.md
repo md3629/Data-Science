@@ -45,4 +45,4 @@ Once you have identified the key components or drivers using PCA, you can conduc
 
 By using PCA for value driver analytics, you can effectively reduce the dimensionality of your dataset, identify important underlying factors or drivers, and gain insights into the factors that contribute most to the value creation in your organization.
 
-<img src="/Value driver/pic/PCA2.jpeg" width="100%" />
+<img src="/Value driver/PCA3.jpeg" width="100%" />
