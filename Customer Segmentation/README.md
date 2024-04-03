@@ -31,7 +31,7 @@ Apply the segmentation results to marketing strategies, product development, or 
 By following these steps, we can perform customer segmentation using k-means clustering in R and gain insights into your customer base for targeted marketing and personalized services.
 
 ## Building a customer segmentation in R - Case study
-<p> A simple customer segmentation in R using Power BI as UI. </p>
+<p> A simple customer segmentation in R using Power BI. </p>
 Using KMeans for Segmenting Customers and determining the Optimal value of K using Elbow Method. <br>
 First part is checking data quality and Visualising the Dataset using various dimensions.
 <br>
