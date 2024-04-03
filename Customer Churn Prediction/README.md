@@ -2,7 +2,7 @@
 
 # Customer Churn Prediction with Survival Analysis in R
 
-**Customer churn prediction** using survival analysis in R involves modeling the time until customers churn (i.e., stop using a service or product) using survival analysis techniques. Here's a basic guide on how to perform customer churn prediction using survival analysis in R:
+**Customer churn prediction** using _survival_ analysis in R involves modeling the time until customers churn (i.e., stop using a service or product) using survival analysis techniques. Here's a basic guide on how to perform customer churn prediction using survival analysis in R:
 
 ## 1. Data Preparation
 Prepare our customer data, including features such as customer characteristics, usage behavior, and churn indicator (whether a customer churned or not). Ensure that we have a timestamp for each customer's entry into the dataset and either their churn timestamp or a censoring indicator if they're still active.
