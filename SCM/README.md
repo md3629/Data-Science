@@ -1,1 +1,1 @@
-<img src="/SCM/pic/planr" align="right" />
+<img src="/SCM/pic/planr.png" align="right" />
