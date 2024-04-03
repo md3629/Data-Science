@@ -20,6 +20,7 @@
 **Prediction**: Use the trained model to make sales predictions for future time periods. Visualize the predicted sales values and compare them to the actual sales values to assess the model's performance.
 
 **Iterate and Refine**: Iterate on the model, refining features, tuning parameters, and experimenting with different algorithms to improve predictive accuracy.
+<img src="/Predictive-Analytics/pic/PredictedSales.jpeg" width="100%" />
 
 ## Financial budgeting under uncertianity
 <img src="/Predictive-Analytics/pic/MC-4.jpg" width="100%" />
