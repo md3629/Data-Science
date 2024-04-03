@@ -4,8 +4,8 @@ The **planr** package in R provides tools for generating and manipulating schedu
 
 There are currently 3 groups of functions :
 
-Calculation & Analysis of projected inventories : light_proj_inv() / proj_inv() / const_dmd()
+-   Calculation & Analysis of projected inventories : **light_proj_inv()** / **proj_inv()** / **const_dmd()**
 
-Calculation of Replenishment Plan (also called DRP) : drp()
+-   Calculation of Replenishment Plan (also called DRP) : **drp()**
 
-Breakdown of Monthly Demand into Weekly Buckets : month_to_week()
+-   Breakdown of Monthly Demand into Weekly Buckets : **month_to_week()**
