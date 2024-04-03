@@ -1,3 +1,4 @@
+<img src="/Customer Churn Prediction/pic/survival.png" align="right" width="10%" />
 # Customer Churn Prediction with Survival Analysis in R
 
 **Customer churn prediction** using survival analysis in R involves modeling the time until customers churn (i.e., stop using a service or product) using survival analysis techniques. Here's a basic guide on how to perform customer churn prediction using survival analysis in R:
