@@ -23,5 +23,6 @@
 | 2.1 | Customer Segmentation (Clustering) |
 | 2.2 | Customer Churn Prediction |
 | 2.3 | Customer lifetime value (CLV) |
+| 3.1 | Supply Chain Management |
 
 
