@@ -6,8 +6,7 @@
 | --- | --- |
 | 1. | Financial analytics |
 | 2. | Customer analytics |
-| 3. | Employees analytics |
-| 4. | Operational analytics |
+| 3. | Operational analytics |
 
 ## Models
 
