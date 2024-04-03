@@ -11,7 +11,7 @@
 
 
 
-| Section | Description|
+| Section | Key Analytics|
 |---------|------------|
 | 1 | Predictive Analytics under uncertainity using Monte Carlo simulation |
 | 2 | Real options |
