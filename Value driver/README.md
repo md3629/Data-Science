@@ -44,3 +44,5 @@ Select the key principal components or variables that represent the most importa
 Once you have identified the key components or drivers using PCA, you can conduct further analysis to understand their impact on performance, profitability, or other relevant outcomes. This may include regression analysis, cluster analysis, or other statistical techniques to explore relationships and make data-driven decisions.
 
 By using PCA for value driver analytics, you can effectively reduce the dimensionality of your dataset, identify important underlying factors or drivers, and gain insights into the factors that contribute most to the value creation in your organization.
+
+<img src="/Value driver/pic/PCA.jpeg" width="100%" />
