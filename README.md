@@ -19,5 +19,8 @@
 | 1.4 | Forecasting |
 | 1.5 | Lagged Predictors |
 | 2.1 | Customer Segmentation (Clustering) |
+| 2.2 | Customer Churn Prediction |
+| 2.3 | Customer lifetime value (CLV) |
+
 
 
