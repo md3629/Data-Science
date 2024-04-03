@@ -1,4 +1,4 @@
-<img src="data/survival.png" align="right" width="10%" />
+<img src="data/Rlogo.png" align="right" width="10%" />
 
 # Data  Science using R 
 
