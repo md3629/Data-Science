@@ -20,6 +20,7 @@
 | 1.5 | Lagged Predictors |
 | 1.6 | Predictive sales analytics |
 | 1.7 | Customer profitability analytics |
+| 1.8 | Value driver analytics |
 | 2.1 | Customer Segmentation (Clustering) |
 | 2.2 | Customer Churn Prediction |
 | 2.3 | Customer lifetime value (CLV) |
