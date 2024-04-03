@@ -1,3 +1,5 @@
+<img src="data/survival.png" align="right" width="10%" />
+
 # Data  Science using R 
 
 ## Key Topics
