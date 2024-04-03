@@ -1,6 +1,6 @@
 # Data  Science using R 
 
-**Key Topics:**
+## Key Topics
 
 | Section | Description |
 | --- | --- |
@@ -9,7 +9,7 @@
 | 3. | Employees analytics |
 | 4. | Operational analytics |
 
-
+## Models
 
 | Section | Key Analytics|
 |---------|------------|
