@@ -4,7 +4,7 @@
 
 **Supply chain management** (SCM) is the process of managing the flow of goods and services to and from a business, including every step involved in turning raw materials and components into final products and getting them to the ultimate customer.
 
-Modelling various reports can be done with BI using DAX or R.
+Modelling various reports can be done with _BI using DAX_ or _R_.
 
 In R, there are various models and techniques available for supply chain management (SCM) analytics, which aim to optimize and improve various aspects of supply chain operations. Some of the commonly used models include:
 
