@@ -1,5 +1,7 @@
 <img src="/SCM/pic/planr.png" align="right" width="10%" />
 
+# Supply Chain Management (SCM)
+
 The [**planr** package](https://github.com/nguyennico/planr) in R provides tools for generating and manipulating schedules and timelines. It can be useful for various applications such as project management, resource allocation, and capacity planning. 
 
 There are currently 3 groups of functions :
