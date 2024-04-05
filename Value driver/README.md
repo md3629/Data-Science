@@ -21,20 +21,6 @@ In R, there are several models and techniques commonly used for value driver ana
 
 **Structural Equation Modeling (SEM)**: SEM is a comprehensive statistical framework for modeling complex relationships between observed and latent variables, allowing for the simultaneous estimation of multiple causal pathways and feedback loops.
 
-## Value driver analytics involves several key steps:
-
-**Identification of Value Drivers**: The first step is to identify the key factors that drive value within the organization. These can vary depending on the industry, business model, and strategic objectives. Common value drivers include revenue growth, cost efficiency, customer satisfaction, product quality, market share, and employee productivity.
-
-**Data Collection and Analysis**: Once the value drivers are identified, relevant data is collected from various sources within the organization. This data may include financial statements, operational metrics, customer feedback, market research, and more. The data is then analyzed to understand the relationships between the value drivers and overall performance.
-
-**Quantification of Impact**: Value driver analytics aims to quantify the impact of each driver on the organization's performance and financial results. This may involve statistical analysis, regression modeling, or other quantitative techniques to measure the strength of the relationships and identify the most influential drivers.
-
-**Scenario Analysis and Optimization**: With a clear understanding of the value drivers and their impact, businesses can conduct scenario analysis to evaluate different strategies, initiatives, or changes in assumptions. This allows organizations to optimize their decision-making processes and prioritize investments that are expected to have the greatest impact on value creation.
-
-**Continuous Monitoring and Improvement**: Value driver analytics is an ongoing process that requires continuous monitoring and evaluation. Organizations should regularly review their performance against key value drivers, identify areas for improvement, and adjust their strategies and tactics accordingly to maximize value creation over time.
-
-Yes, you can use Principal Component Analysis (PCA) for value driver analytics, especially when dealing with a large number of potential drivers or variables. PCA is a dimensionality reduction technique that can help identify the underlying patterns or components in a dataset and reduce its complexity while retaining most of the variability present in the data.
-
 # Business case: using PCA for value driver analytics:
 
 ## 1. Data Preparation
