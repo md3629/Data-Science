@@ -39,6 +39,7 @@ In R, there are various models and techniques available for supply chain managem
 - Anomaly detection models for detecting deviations in supply chain operations
 - Natural language processing (NLP) for analyzing unstructured data such as customer feedback and supplier contracts
 
+## Case study solution in R
 The [**planr** package](https://github.com/nguyennico/planr) in R provides tools for generating and manipulating schedules and timelines. It can be useful for various applications such as project management, resource allocation, and capacity planning. 
 
 There are currently 3 groups of functions :
