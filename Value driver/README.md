@@ -1,7 +1,25 @@
 # Value driver analytics
 **Value driver analytics** refers to the process of identifying and analyzing the key factors or "drivers" that contribute to the creation of value within an organization. 
+
 These drivers are typically the underlying variables or metrics that have a significant impact on the organization's performance, profitability, and success. 
-By understanding and quantifying the relationships between these drivers and overall value creation, businesses can make informed decisions to optimize their operations, improve performance, and maximize shareholder value.
+
+In R, there are several models and techniques commonly used for value driver analytics, which aim to identify and quantify the key drivers of business value. Some of these models include:
+
+**Linear Regression**: This is one of the most commonly used statistical techniques for modeling the relationship between a dependent variable (e.g., business value) and one or more independent variables (e.g., key drivers such as revenue, expenses, customer satisfaction, etc.).
+
+**Multiple Regression Analysis**: Extending linear regression to multiple independent variables, multiple regression analysis allows for the exploration of complex relationships between business value and multiple potential drivers.
+
+**Generalized Linear Models (GLMs)**: GLMs are a flexible class of models that can accommodate various types of response variables and distributions, making them suitable for analyzing business value drivers in different contexts.
+
+**Decision Trees**: Decision tree algorithms, such as CART (Classification and Regression Trees) or random forests, can be used to identify and visualize important value drivers in a hierarchical and interpretable manner.
+
+**Gradient Boosting Machines (GBMs)**: GBMs are powerful machine learning algorithms that can effectively capture nonlinear relationships between business value and its drivers, making them suitable for complex value driver analytics tasks.
+
+**Principal Component Analysis (PCA)**: PCA is a dimensionality reduction technique that can be used to identify latent variables or patterns in high-dimensional datasets, helping to uncover the most important value drivers.
+
+**Factor Analysis**: Similar to PCA, factor analysis can be used to identify underlying factors or dimensions that explain the variation in business value and its drivers.
+
+**Structural Equation Modeling (SEM)**: SEM is a comprehensive statistical framework for modeling complex relationships between observed and latent variables, allowing for the simultaneous estimation of multiple causal pathways and feedback loops.
 
 ## Value driver analytics involves several key steps:
 
