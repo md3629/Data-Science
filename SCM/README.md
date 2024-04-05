@@ -25,13 +25,6 @@ In R, there are various models and techniques available for supply chain managem
 - Facility location and allocation models
 - Supply chain network design models
 - Multi-commodity flow models
-
-## Supplier Relationship Management (SRM):
-- Supplier performance evaluation models
-- Supplier selection and sourcing optimization models
-- Contract management and negotiation models
-- Risk assessment and mitigation models
-
 ## Production Planning and Scheduling Models:
 - Aggregate production planning models
 - Material requirements planning (MRP) models
@@ -41,10 +34,6 @@ In R, there are various models and techniques available for supply chain managem
 - Discrete event simulation models
 - Agent-based modeling and simulation
 - Monte Carlo simulation for risk analysis and scenario planning
-## Quality Management Models:
-- Statistical process control (SPC) models
-- Six Sigma methodologies and tools
-- Total quality management (TQM) frameworks
 ## Supply Chain Analytics with Machine Learning:
 - Predictive maintenance models for equipment and machinery
 - Anomaly detection models for detecting deviations in supply chain operations
