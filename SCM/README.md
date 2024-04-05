@@ -6,6 +6,54 @@
 
 Modelling various reports can be done with BI using DAX or R.
 
+In R, there are various models and techniques available for supply chain management (SCM) analytics, which aim to optimize and improve various aspects of supply chain operations. Some of the commonly used models include:
+
+## Inventory Management Models:
+- Economic Order Quantity (EOQ) models
+- Inventory control models (e.g., ABC analysis, JIT inventory)
+- Multi-echelon inventory optimization models
+- Stochastic inventory models
+
+## Demand Forecasting Models:
+Time series forecasting models (e.g., ARIMA, exponential smoothing)
+Machine learning algorithms (e.g., random forests, gradient boosting)
+Regression-based forecasting models
+Collaborative filtering and recommendation systems
+Network Optimization Models:
+
+Transportation optimization models (e.g., vehicle routing problem, transportation network design)
+Facility location and allocation models
+Supply chain network design models
+Multi-commodity flow models
+Supplier Relationship Management (SRM):
+
+Supplier performance evaluation models
+Supplier selection and sourcing optimization models
+Contract management and negotiation models
+Risk assessment and mitigation models
+Production Planning and Scheduling Models:
+
+Aggregate production planning models
+Material requirements planning (MRP) models
+Production scheduling algorithms (e.g., job shop scheduling, flow shop scheduling)
+Capacity planning and optimization models
+Supply Chain Simulation Models:
+
+Discrete event simulation models
+Agent-based modeling and simulation
+Monte Carlo simulation for risk analysis and scenario planning
+Quality Management Models:
+
+Statistical process control (SPC) models
+Six Sigma methodologies and tools
+Total quality management (TQM) frameworks
+Supply Chain Analytics with Machine Learning:
+
+Predictive maintenance models for equipment and machinery
+Anomaly detection models for detecting deviations in supply chain operations
+Natural language processing (NLP) for analyzing unstructured data such as customer feedback and supplier contracts
+
+
 The [**planr** package](https://github.com/nguyennico/planr) in R provides tools for generating and manipulating schedules and timelines. It can be useful for various applications such as project management, resource allocation, and capacity planning. 
 
 There are currently 3 groups of functions :
