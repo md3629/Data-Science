@@ -1,4 +1,5 @@
 <img src="/Customer Segmentation/pic/purrr.png" align="right" width="10%" />
+
 # Customer Segmentation using R
 
 **Customer segmentation** is the process of dividing customers into groups based on shared characteristics or behaviors. In R, we can perform customer segmentation using various clustering techniques such as k-means clustering, hierarchical clustering, and DBSCAN. Here's a basic guide on how to perform customer segmentation using k-means clustering in R:
