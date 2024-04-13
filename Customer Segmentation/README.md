@@ -1,5 +1,5 @@
-<img src="/Customer Segmentation/pic/purrr.png" align="right" width="10%" />
-<img src="/Customer Segmentation/pic/dbscan.svg" align="right" width="10%" />
+<img src="/Customer Segmentation/pic/purrr.png" align="right" width="10%" /> <img src="/Customer Segmentation/pic/dbscan.svg" align="right" width="10%" />
+
 
 # Customer Segmentation using R
 
