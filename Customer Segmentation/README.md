@@ -7,7 +7,7 @@
 
 ## 1. Load Required Libraries
 
-Libraries like purrr, cluster, [dbscan] (https://github.com/mhahsler/dbscan) etc
+Libraries like purrr, cluster, (dbscan)[https://github.com/mhahsler/dbscan] etc
 
 ## 2. Load and Preprocess Data
 Load our customer data into R and preprocess it as needed. Ensure that our data is cleaned and in the right format for clustering analysis.
