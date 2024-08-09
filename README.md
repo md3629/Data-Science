@@ -19,10 +19,15 @@ This repository is designed to showcase a variety of analytical techniques and m
 Projects
 #### 1. Financial Analytics
 Predictive Analytics under Uncertainty: Utilize Monte Carlo simulation to predict outcomes under uncertain conditions.
+
 Real Options: Analyze the value of flexibility in investment decisions.
+
 Marketing Mix Modelling: Understand the impact of different marketing channels on sales and optimize spending.
+
 Forecasting: Build models to forecast future trends based on historical data.
+
 Lagged Predictors: Use lagged variables in predictive models to capture delayed effects.
+
 #### 2. Customer Analytics
 Predictive Sales Analytics: Analyze sales data to predict future sales performance.
 Customer Profitability Analytics: Evaluate the profitability of different customer segments.
