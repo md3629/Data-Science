@@ -7,9 +7,9 @@ This repository contains a collection of data science projects and models implem
 
 ### Overview
 ### Projects
-1. Financial Analytics
-2. Customer Analytics
-3. Operational Analytics
+#### 1. Financial Analytics
+#### 2. Customer Analytics
+#### 3. Operational Analytics
 How to Use
 Contributing
 License
