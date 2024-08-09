@@ -2,21 +2,11 @@
 
 # Data  Science using R 
 This repository contains a collection of data science projects and models implemented in R. The projects are organized by key analytics areas, each focusing on different aspects of financial, customer, and operational analytics.
-## Key Topics
 
-| Section | Description |
-| --- | --- |
-| 1. | Financial analytics |
-| 2. | Customer analytics |
-| 3. | Operational analytics |
+## Table of Contents
 
-
-
-
-
-Table of Contents
-Overview
-Projects
+### Overview
+### Projects
 1. Financial Analytics
 2. Customer Analytics
 3. Operational Analytics
